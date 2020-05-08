@@ -82,6 +82,7 @@ function ArtistInfo() {
           <div className="row  mx-auto container">
             <div className="col-12 col-md-4">
               <h1 className="display-4 mt-3">
+                {/* <h1 className="display-4 mt-3"> */}
                 AMP UP
                 <br />
                 THOSE DBS
